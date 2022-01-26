@@ -1,0 +1,72 @@
+body{
+    background-image:url(https://wallpaperaccess.com/full/945196.jpg) ;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+
+.container
+{
+   margin: 100px ;
+   margin-left: 100px;
+   
+   width: 50%;
+   padding: 8px;
+}
+img
+{
+    float: left;
+    margin-right: 80px;
+    width: 420px;
+    height: 450px;
+    padding: 0 10px 0 0;
+    position: relative;
+    bottom: 20px;
+    right: 80px;
+    
+}
+.para
+{
+    margin-left: 100px;
+    
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    position: absolute;
+    right: 540px;
+    bottom: 415px;
+}
+.intro
+{
+    margin-left: 200px;
+    
+    text-align: justify;
+    font-family:serif;
+    font-size: 22px;
+    position: absolute;
+    right: 625px;
+    
+
+}
+.text
+{
+    
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;  
+    font-size: 20px;
+    position: relative;
+    top: 120px;
+    right: 45px;
+}
+.sky{
+    position:absolute;
+    
+    left: 965px;
+    top: 250px;
+
+    display: block;
+    
+}
